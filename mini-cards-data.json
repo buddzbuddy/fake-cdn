@@ -2,41 +2,41 @@
 	{
 		"icon": "speaker_phone",
 		"title":"Насилие",
-		"value": 7,
+		"value": 27,
 		"color":"warn",
 		"percentValue":0.15,
 		"isCurrency": false,
 		"isIncrease": true,
-		"duration": "за последний месяц"
+		"duration": "за последний 6 месяцев"
 	},
 	{
 		"icon": "bookmark_added",
 		"title":"Новые задачи",
-		"value": 12,
+		"value": 124,
 		"color":"accent",
 		"percentValue":0.75,
 		"isCurrency": false,
-		"isIncrease": false,
+		"isIncrease": true,
 		"duration": "за последний месяц"
 	},
 	{
 		"icon": "drive_eta",
 		"title":"Выезды на места",
-		"value": 25,
+		"value": 161,
 		"color":"primary",
-		"percentValue":0.41,
+		"percentValue":0.21,
 		"isCurrency": false,
-		"isIncrease": true,
+		"isIncrease": false,
 		"duration": "за последний месяц"
 	},
 	{
 		"icon": "corporate_fare",
-		"title":"Организации",
-		"value": 5,
+		"title":"Открытых задач",
+		"value": 28,
 		"color":"warn",
-		"percentValue":0.50,
+		"percentValue":0.10,
 		"isCurrency": false,
 		"isIncrease": true,
-		"duration": "с начала года"
+		"duration": "на сегодня"
 	}
 ]
