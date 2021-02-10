@@ -31,7 +31,7 @@
 	},
 	{
 		"icon": "corporate_fare",
-		"title":"Кол-во организаций",
+		"title":"Организации",
 		"value": 5,
 		"color":"warn",
 		"percentValue":0.50,
