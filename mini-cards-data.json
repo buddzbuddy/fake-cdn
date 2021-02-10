@@ -4,7 +4,7 @@
 		"title":"Насилие",
 		"value": 7,
 		"color":"warn",
-		"percentValue":15,
+		"percentValue":0.15,
 		"isCurrency": false,
 		"isIncrease": true,
 		"duration": "за последний месяц"
@@ -14,7 +14,7 @@
 		"title":"Новые задачи",
 		"value": 12,
 		"color":"accent",
-		"percentValue":7.5,
+		"percentValue":0.75,
 		"isCurrency": false,
 		"isIncrease": false,
 		"duration": "за последний месяц"
@@ -24,7 +24,7 @@
 		"title":"Выезды на места",
 		"value": 25,
 		"color":"primary",
-		"percentValue":41,
+		"percentValue":0.41,
 		"isCurrency": false,
 		"isIncrease": true,
 		"duration": "за последний месяц"
@@ -34,7 +34,7 @@
 		"title":"Кол-во организаций",
 		"value": 5,
 		"color":"warn",
-		"percentValue":50,
+		"percentValue":0.50,
 		"isCurrency": false,
 		"isIncrease": true,
 		"duration": "с начала года"
