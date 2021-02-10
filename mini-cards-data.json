@@ -1,0 +1,46 @@
+[
+	{
+		"icon": "speaker_phone",
+		"title":"НАСИЛИЕ",
+		"textValue":"Новых случаев",
+		"value": 7,
+		"color":"warn",
+		"percentValue":15,
+		"isCurrency": false,
+		"isIncrease": true,
+		"duration": "за последний месяц"
+	},
+	{
+		"icon": "bookmark_added",
+		"title":"ЗАДАЧИ",
+		"textValue":"Новые задачи",
+		"value": 12,
+		"color":"accent",
+		"percentValue":7.5,
+		"isCurrency": false,
+		"isIncrease": false,
+		"duration": "за последний месяц"
+	},
+	{
+		"icon": "drive_eta",
+		"title":"ВЫЕЗДЫ",
+		"textValue":"Выезды на места",
+		"value": 25,
+		"color":"primary",
+		"percentValue":41,
+		"isCurrency": false,
+		"isIncrease": true,
+		"duration": "за последний месяц"
+	},
+	{
+		"icon": "corporate_fare",
+		"title":"ВЗАИМОДЕЙСТВИЕ",
+		"textValue":"Кол-во организаций",
+		"value": 5,
+		"color":"warn",
+		"percentValue":50,
+		"isCurrency": false,
+		"isIncrease": true,
+		"duration": "с начала года"
+	}
+]
