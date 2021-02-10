@@ -1,0 +1,14 @@
+[
+    {"month": "Янв","revenue": 357 },
+    {"month": "Фев","revenue": 294},
+    {"month": "Мар","revenue": 507 },
+    {"month": "Апр","revenue": 519 },
+    {"month": "Май","revenue": 262 },
+    {"month": "Июн","revenue": 254 },
+    {"month": "Июл","revenue": 102 },
+    {"month": "Авг","revenue": 260},
+    {"month": "Сен","revenue": 438 },
+    {"month": "Окт","revenue": 204 },
+    {"month": "Ноя","revenue": 457 },
+    {"month": "Дек","revenue": 550 }
+]
