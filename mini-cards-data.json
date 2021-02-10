@@ -6,7 +6,7 @@
 		"color":"warn",
 		"percentValue":0.15,
 		"isCurrency": false,
-		"isIncrease": true,
+		"isIncrease": false,
 		"duration": "за последний 6 месяцев"
 	},
 	{
@@ -26,7 +26,7 @@
 		"color":"primary",
 		"percentValue":0.21,
 		"isCurrency": false,
-		"isIncrease": false,
+		"isIncrease": true,
 		"duration": "за последний месяц"
 	},
 	{
@@ -36,7 +36,7 @@
 		"color":"warn",
 		"percentValue":0.10,
 		"isCurrency": false,
-		"isIncrease": true,
+		"isIncrease": false,
 		"duration": "на сегодня"
 	}
 ]
