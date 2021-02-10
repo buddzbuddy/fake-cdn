@@ -1,8 +1,7 @@
 [
 	{
 		"icon": "speaker_phone",
-		"title":"НАСИЛИЕ",
-		"textValue":"Новых случаев",
+		"title":"Насилие",
 		"value": 7,
 		"color":"warn",
 		"percentValue":15,
@@ -12,8 +11,7 @@
 	},
 	{
 		"icon": "bookmark_added",
-		"title":"ЗАДАЧИ",
-		"textValue":"Новые задачи",
+		"title":"Новые задачи",
 		"value": 12,
 		"color":"accent",
 		"percentValue":7.5,
@@ -23,8 +21,7 @@
 	},
 	{
 		"icon": "drive_eta",
-		"title":"ВЫЕЗДЫ",
-		"textValue":"Выезды на места",
+		"title":"Выезды на места",
 		"value": 25,
 		"color":"primary",
 		"percentValue":41,
@@ -34,8 +31,7 @@
 	},
 	{
 		"icon": "corporate_fare",
-		"title":"ВЗАИМОДЕЙСТВИЕ",
-		"textValue":"Кол-во организаций",
+		"title":"Кол-во организаций",
 		"value": 5,
 		"color":"warn",
 		"percentValue":50,
