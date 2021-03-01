@@ -1,0 +1,42 @@
+[
+	{
+		"icon": "speaker_phone",
+		"title":"Новые",
+		"value": 27,
+		"color":"warn",
+		"percentValue":0.15,
+		"isCurrency": false,
+		"isIncrease": false,
+		"duration": "за последний 6 месяцев"
+	},
+	{
+		"icon": "bookmark_added",
+		"title":"Вылечено",
+		"value": 124,
+		"color":"accent",
+		"percentValue":0.75,
+		"isCurrency": false,
+		"isIncrease": true,
+		"duration": "за последний месяц"
+	},
+	{
+		"icon": "drive_eta",
+		"title":"На карантине",
+		"value": 161,
+		"color":"primary",
+		"percentValue":0.21,
+		"isCurrency": false,
+		"isIncrease": true,
+		"duration": "за последний месяц"
+	},
+	{
+		"icon": "corporate_fare",
+		"title":"Умершие",
+		"value": 28,
+		"color":"warn",
+		"percentValue":0.10,
+		"isCurrency": false,
+		"isIncrease": false,
+		"duration": "на сегодня"
+	}
+]
